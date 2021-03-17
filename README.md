@@ -8,9 +8,9 @@
 <a href="mailto:gavinnyamboga3@gmail.com"><img height="30" src="https://github.com/GavinNyamboga/GavinNyamboga/blob/main/images/icons/envelope-square-solid.svg"></a>&nbsp;&nbsp;
 
 <h2 align="center">Hello there! My name is Gavin Nyamboga. 👋🤓</h2>
-<p align="center">I'm an Android Developer using Kotlin and Java, UI designer  from Kenya.
+<p align="center">I'm an Android Developer using Kotlin and Java, UI designer  from Kenya kenya.
 I'm currently pursuing my Bsc in Computer Science while working on my personal projects.
-I'm currently passionate about  Solving world problems, World Domination and Automation.
+I'm currently passionate about  Solving world problems, Artificial Intelligence 🤖.
 When I'm not developing and building things, you can find me watching videos on YouTube and TikTok, watching anime, tweeting fun stuff 😄😄.</p>
 
 <hr>
