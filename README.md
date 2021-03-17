@@ -1,10 +1,10 @@
 <p align="center">
-<a href="https://facebook.com/gavnah.vinz"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/facebook-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/gavin_k3"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/twitter-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/gavnah_gavin"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/instagram-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/gavinnyamboga/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/linkedin-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://github.com/GavinNyamboga"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/github-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="mailto:gavinnyamboga3@gmail.com"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/envelope-square-solid.svg"></a>&nbsp;&nbsp;
+<a href="https://facebook.com/gavnah.vinz"><img height="30" src="https://github.com/GavinNyamboga/GavinNyamboga/tree/main/images/icons/facebook-square-brands.svg"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/gavin_k3"><img height="30" src="https://github.com/GavinNyamboga/GavinNyamboga/tree/main/images/icons/twitter-square-brands.svg"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/gavnah_gavin"><img height="30" src="https://github.com/GavinNyamboga/GavinNyamboga/tree/main/images/icons/instagram-square-brands.svg"></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/gavinnyamboga/"><img height="30" src="https://github.com/GavinNyamboga/GavinNyamboga/tree/main/images/icons/linkedin-brands.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/GavinNyamboga"><img height="30" src="https://github.com/GavinNyamboga/GavinNyamboga/tree/main/images/icons/github-square-brands.svg"></a>&nbsp;&nbsp;
+<a href="mailto:gavinnyamboga3@gmail.com"><img height="30" src="https://github.com/GavinNyamboga/GavinNyamboga/tree/main/images/icons/envelope-square-solid.svg"></a>&nbsp;&nbsp;
 
 <h2 align="center">Hello there! My name is Gavin Nyamboga. 👋🤓</h2>
 <p align="center">I'm an Android Developer using Kotlin and Java, UI designer  from Kenya.
