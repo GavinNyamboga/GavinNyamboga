@@ -8,7 +8,7 @@
 <a href="mailto:gavinnyamboga3@gmail.com"><img height="30" src="https://github.com/GavinNyamboga/GavinNyamboga/blob/main/images/icons/envelope-square-solid.svg"></a>&nbsp;&nbsp;
 
 <h2 align="center">Hello there! My name is Gavin Nyamboga. 👋🤓</h2>
-<p align="center">I'm a Software Engineer at Litemore Limited and Android Developer using Kotlin and Java , UI designer  from Kenya 🇰🇪.
+<p align="center">I'm a Backend Software Engineer using Java (JAVA EE and Springboot). I am currently learning Golang
 When I'm not developing and building things, you can find me watching videos on YouTube and TikTok, tweeting fun stuff 😄😄.</p>
 
 <hr>
