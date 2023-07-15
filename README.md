@@ -6,12 +6,6 @@
 
 <h2 align="center">Hello there!👋</h2>
 <p align="center">I'm a Backend Software Engineer using Java (JAVA EE and Springboot), Kotlin for android.
-</p>
-
-<h3 align="center">💼💻 What & Where I am currently working at/on/as</h3>
-<p align="center">
-....
-</p>
 
 -----
 
