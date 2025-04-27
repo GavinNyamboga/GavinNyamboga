@@ -5,7 +5,7 @@
 <a href="mailto:gavinnyamboga3@gmail.com"><img height="30" src="https://github.com/GavinNyamboga/GavinNyamboga/blob/main/images/icons/envelope-square-solid.svg"></a>&nbsp;&nbsp;
 
 <h2 align="center">Hello there!👋</h2>
-<p align="center">I'm a Backend Software Engineer using Java (JAVA EE and Springboot), Kotlin for android.
+<p align="center">I'm a Backend Software Engineer using Java (JAVA EE and Springboot), Flutter for mobile applications
 
 -----
 
